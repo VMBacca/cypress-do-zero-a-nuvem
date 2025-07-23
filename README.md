@@ -3,6 +3,8 @@
 
 This is a sample project for the "Cypress, from Zero to the Cloud" course of the [**Talking About Testing School**](https://udemy.com/user/walmyr)
 
+🗣️ **Note:** This project and its test code are written in **Brazilian Portuguese**, following the original course material.
+
 ## 📸 Demo
 
 Here’s a quick look at the tests in action:
