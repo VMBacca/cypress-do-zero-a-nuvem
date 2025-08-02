@@ -254,6 +254,6 @@ describe('Central de Atendimento ao Cliente TAT', () => {
     cy.get('#title')
       .invoke('text', 'CAT TAT')
     cy.get('#subtitle')
-      .invoke('text', 'GATO 🥷 NINJA!')
+      .invoke('text', 'gato 🥷 ninja!')
   })
 })
